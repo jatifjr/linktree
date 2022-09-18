@@ -15,10 +15,10 @@ const website = [
         Name: "Email",
         Link: "mailto:fajarku26@gmail.com",
     },
-    {
-        Name: "LinkedIn",
-        Link: "https://www.linkedin.com/in/ahmad-fajar-kusumajati-7ab336230",
-    },
+//     {
+//         Name: "LinkedIn",
+//         Link: "https://www.linkedin.com/in/ahmad-fajar-kusumajati-7ab336230",
+//     },
     {
         Name: "Spotify",
         Link: "https://open.spotify.com/user/95rh4qdbwu8wb4eb9tjvhrbux?si=9dfb9c7ac7a94d42",
